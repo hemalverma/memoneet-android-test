@@ -41,7 +41,7 @@ https://github.com/hemalverma/memoneet-android-test/assets/42999928/88999ab8-de0
 
 ## App Download Link
 
-[Download Now](https://github.com/hemalverma/memoneet-test/blob/master/assets/app-portfolio/app-armeabi-v7a-release.apk)
+[Download Now](https://github.com/hemalverma/memoneet-android-test/blob/master/assests/app-portfolio/app-debug.apk)
 
 
 
